@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;cs212unit.Ide.java&apos; to &apos;CarFuelGuage.java&apos;&#x0A;- Original project: &apos;HW7&apos;&#x0A;- Original element: &apos;cs212unit.Ide.java&apos;&#x0A;- Renamed element: &apos;cs212unit.CarFuelGuage.java&apos;" description="Rename compilation unit &apos;Ide.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;cs212unit{Ide.java" name="CarFuelGuage.java" references="false" stamp="1490246118770" version="1.0"/>
+</session>

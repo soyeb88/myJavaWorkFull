@@ -1,0 +1,10 @@
+package basic1;
+
+import javax.swing.JOptionPane;
+
+public class myFirstProgram {
+	public static void main(String[] args) {
+		System.out.print("hello world");
+		JOptionPane.showConfirmDialog(null,"Hello World,", "quit",JOptionPane.YES_NO_CANCEL_OPTION);
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring clone="false" comment="Infer generic type arguments on &apos;Ahmed_Soyeb_Assignment1_340&apos;&#x0A;- Original project: &apos;Ahmed_Soyeb_Assignment1_340&apos;&#x0A;- Original elements:&#x0A;     FCFS.java" description="Infer generic type arguments" element1="/src&lt;{FCFS.java" flags="6" id="org.eclipse.jdt.ui.infer.typearguments" leave="false" stamp="1523220377680" version="1.0"/>
+</session>
